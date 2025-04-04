@@ -13,7 +13,9 @@
            - standardized data is used to train model which use SVC to predict if the person has 
            parkinsons disease or not.
      5.Movie recommendation system
-           - 
+           - various features are combined together,which are then assigned weights using TFidf vectorizer
+           - cosine similarity function is used to find closest vectors to input vectors and then the output
+           is displayed.
      6.Loan status prediction
      7.House price prediction
      8.Heart disease prediction
