@@ -26,4 +26,4 @@
     2.Multiple disease prediction web app
 
 ## Models made from scratch:
-    1.Linear Regression Model usin NN
+    1.Linear Regression Model using NN
