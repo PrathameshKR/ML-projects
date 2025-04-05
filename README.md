@@ -25,5 +25,5 @@
     1.Diabetes prediction web app
     2.Multiple disease prediction web app
 
-## Models made from scratch:
+## ML Techniques:
     1.Linear Regression Model using NN
