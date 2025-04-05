@@ -1,0 +1,4 @@
+- Carefully observe extensions
+- the file with 'ipynb' extension is colab file
+- in order to deploy model as web app it is saved and then loaded in spyder(IDE)
+- the model is then deployed using streamlit
